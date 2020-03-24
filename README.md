@@ -9,3 +9,9 @@ This repo was created solely for all tasks related to Start.ng 2020
 4. The page should contain your full name, email address, slack username, your tracks and the courses you have registered for. 
 5. Submit the link to the page from your HNG board. To successfully carry out this task, use this:
    https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF
+   
+   
+
+## Solution to Task
+1. Navigate to "Git-Task" Branch
+2. Click internDetails File to view task 
