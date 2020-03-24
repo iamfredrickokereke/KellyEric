@@ -1,7 +1,7 @@
 # KellyEric
 This repo was created solely for all tasks related to Start.ng 2020
 
-##Instructions for the Git Task
+## Instructions for the Git Task
 
 1. Create a repository, your repository name should be your slack username with no spaces. 
 2. Create a branch in that repository, other than the master branch 
